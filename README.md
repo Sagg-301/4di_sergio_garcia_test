@@ -81,6 +81,11 @@ Start the server using the following command:
 flask db upgrade
 ```
 
+To run tests
+
+```sh
+pytest
+
 Start the server using the following command:
 
 ```sh
